@@ -9,8 +9,8 @@ This project implements an internal API to fetch normalized appointment slots fr
 1. **Clone the Repository**
 
    ```bash
-   git clone <your-repo-url>
-   cd <your-project-directory>
+   git clone <https://github.com/StutiMacwan/>
+   cd <dentist_finder_task>
    ```
 
 2. **Install Dependencies**
